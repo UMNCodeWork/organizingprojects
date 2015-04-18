@@ -20,7 +20,7 @@ Managers don't appreciate the nuances of communication
 
 Project Management Tools
 - [Redmine](www.redmine.org)
-- Wiki
+- [Wikipedia](https://en.wikibooks.org/wiki/Starting_and_Running_a_Wiki_Website)
 - [Taiga](https://taiga.io/)
 - [Trello](https://trello.com)
 
@@ -38,3 +38,6 @@ Much more evident in a Github project of the conversation element than a Wiki
 
 Super-fast or not needing step-by-step version control, using Google Doc or similar
 Longer term projects or necessity of step-by-step vc, using Github
+
+
+[Open Hatch](https://openhatch.org/)
