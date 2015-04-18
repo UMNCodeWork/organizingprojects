@@ -50,3 +50,11 @@ Wiki Gardening
 Choose your own adventure for documentation (rather than just a link to download something) 
 - practicing empathy and a naive mindset 
 - communicating the things that a program *solves*
+
+Squishy world between documenting and designing
+
+Tensions around approachability
+- Heartbleed vs. numbers
+- Too many codenames = you don't know what anyone/anything is doing
+
+
