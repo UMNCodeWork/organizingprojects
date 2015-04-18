@@ -43,3 +43,10 @@ Longer term projects or necessity of step-by-step vc, using Github
 [Open Hatch](https://openhatch.org/)
 
 Creative coding frameworks (like OpenFrameworks) do this really well
+
+Wiki Gardening
+- things like curating ReadMes
+
+Choose your own adventure for documentation (rather than just a link to download something) 
+- practicing empathy and a naive mindset 
+- communicating the things that a program *solves*
