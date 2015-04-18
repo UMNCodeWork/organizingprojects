@@ -18,10 +18,11 @@ Managers don't appreciate the nuances of communication
 - navigating the questions down the road 
 
 
-Redmine
-Wiki
-Taiga
-Trello
+Project Management Tools
+- Redmine
+- Wiki
+- Taiga
+- Trello
 
 IRC
 Campfire
