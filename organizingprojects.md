@@ -27,7 +27,11 @@ Project Management Tools
 IRC
 Campfire
 
-Any meaningful project communication should have a URL for it
+Email is a bad method to communicate (black hole)
+- Any meaningful project communication should have a URL for it
+- Hard to go back over earlier email threads, also cross-talk
+- lowering the barriers between having the conversation and documenting it
+
 
 [Hubot](https://hubot.github.com/)
 
