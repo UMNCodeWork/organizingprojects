@@ -19,10 +19,10 @@ Managers don't appreciate the nuances of communication
 
 
 Project Management Tools
-- Redmine
+- [Redmine](www.redmine.org)
 - Wiki
-- Taiga
-- Trello
+- [Taiga](https://taiga.io/)
+- [Trello](https://trello.com)
 
 IRC
 Campfire
@@ -32,6 +32,7 @@ Email is a bad method to communicate (black hole)
 - Hard to go back over earlier email threads, also cross-talk
 - lowering the barriers between having the conversation and documenting it
 
+Much more evident in a Github project of the conversation element than a Wiki
 
 [Hubot](https://hubot.github.com/)
 
