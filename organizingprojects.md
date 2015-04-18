@@ -41,3 +41,5 @@ Longer term projects or necessity of step-by-step vc, using Github
 
 
 [Open Hatch](https://openhatch.org/)
+
+Creative coding frameworks (like OpenFrameworks) do this really well
